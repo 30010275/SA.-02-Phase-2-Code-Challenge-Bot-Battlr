@@ -1,4 +1,39 @@
-# Getting Started with Create React App
+
+    a user can  :
+View all available bots: See a list of bots available in the 
+BotCollection section.
+
+Add bots to your army: Add bots to your YourBotArmy by clicking 
+on them. Bots can only be added once.
+
+Release a bot: Remove a bot from your army by clicking on it in 
+the YourBotArmy section.
+      
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
