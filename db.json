@@ -1,0 +1,23 @@
+{
+    "bots": [
+      {
+        "id": 1,
+        "name": "Alpha",
+        "avatar_url": "http://example.com/avatar1.png",
+        "catchphrase": "Leaders rise!"
+      },
+      {
+        "id": 2,
+        "name": "Beta",
+        "avatar_url": "http://example.com/avatar2.png",
+        "catchphrase": "Secure the future!"
+      },
+      {
+        "id": 3,
+        "name": "Gamma",
+        "avatar_url": "http://example.com/avatar3.png",
+        "catchphrase": "Always ready!"
+      }
+    ]
+  }
+  

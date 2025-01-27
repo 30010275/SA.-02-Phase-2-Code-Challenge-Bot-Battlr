@@ -1,0 +1,12 @@
+.bot-collection {
+    padding: 20px;
+  }
+  
+  
+  .bot-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,50 @@
+/* Global styles for the app */
+body {
+  margin: 0;
+  padding: 0;
+  font-style: italic;
+  font-family: Arial, sans-serif;
+  background-color: lightgoldenrodyellow;
+  overflow-y: auto; /* Ensure vertical scrolling is possible */
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-height: 100vh;
+  overflow-y: auto;
+  background-color: lightgrey;
+}
+
+h1 {
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 300;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: lightcoral;
+
+}
+
+.bot-collection,
+.your-bot-army {
+  font-style: italic;
+  color:aquamarine;
+  width: 80%;
+  margin-top: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  font-style: initial;
+}
+
+.bot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

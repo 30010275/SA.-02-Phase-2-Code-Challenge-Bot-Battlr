@@ -1,0 +1,14 @@
+.your-bot-army {
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .bot-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
